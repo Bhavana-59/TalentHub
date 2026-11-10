@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+dist/
+backend/talenthub.db*
+backend/.secret_key
+.env
+
+.pytest_cache/
+*.db
+*.db-shm
+*.db-wal
+.secret_key
